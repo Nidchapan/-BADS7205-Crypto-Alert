@@ -1,4 +1,4 @@
-# [BADS7205] Final Project
+# [BADS7205] Crypto Alert
 ### !! Change <kafka_bootstrap_servers> before running !!
 1. run producer_with_graph (recommend run with jupyter notebook)
 2. run crypro_aleart (recommend run with google colab)
